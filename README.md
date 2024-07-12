@@ -1,4 +1,1 @@
-# Restaurant Landing Page
-
-- Used bootstrap tools & own styles.
-- Implemented responsive template.
+A modern and user-friendly restaurant table booking system developed using HTML, CSS, Bootstrap, and JavaScript. This project features a responsive navigation bar, a simple table booking form, a carousel gallery for showcasing restaurant highlights, and detailed sections for About, Menu, Shop, and Contact Information. The design integrates Bootstrap for consistent styling and responsiveness, complemented by smooth animations and a visually appealing background image to enhance the user experience.\
